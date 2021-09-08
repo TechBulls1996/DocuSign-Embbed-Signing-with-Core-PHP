@@ -1,0 +1,5 @@
+{
+    "require": {
+        "docusign/esign-client": "^6.3"
+    }
+}
